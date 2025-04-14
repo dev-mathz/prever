@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PolzovatelSilq0/AutoDiveHub/refs/heads/main/42autodive"))()
